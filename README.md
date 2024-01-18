@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 # Przemysław Świderski
 ## Full Stack Developer
 
-### Contact
-- Email: przemyslaw.rafal.swiderski@gmail.com
-- Phone: +48 888 189 981
-- GitHub: [github.com/Przemyslaw-Swiderski](https://github.com/Przemyslaw-Swiderski)
-
 ### Self Definition
 Software Developer talented and enthusiastic in software design, development, and integration. Experienced in developing systems for custom applications...
 
