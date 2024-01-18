@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 # Przemysław Świderski
 ## Full Stack Developer
 
+### Skills
+
+![technologie](https://github.com/Przemyslaw-Swiderski/Przemyslaw-Swiderski/assets/118487036/f6a4d2a0-7e50-4960-b1da-b0528cece005)
+
 ### Self Definition
 Software Developer talented and enthusiastic in software design, development, and integration. Experienced in developing systems for custom applications...
 
