@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-![technologie](https://github.com/Przemyslaw-Swiderski/Przemyslaw-Swiderski/assets/118487036/f6a4d2a0-7e50-4960-b1da-b0528cece005)
+![technologie](https://github.com/Przemyslaw-Swiderski/Przemyslaw-Swiderski/assets/118487036/33f51502-684b-4eda-bde0-6b502219720d)
 
 ### Self Definition
 Software Developer talented and enthusiastic in software design, development, and integration. Experienced in developing systems for custom applications...
