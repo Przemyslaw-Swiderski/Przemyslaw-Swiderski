@@ -36,6 +36,7 @@ While working pays attention for usability of the solution actually work on. Con
 
 ### Recent Projects
 - [G1 El Proyecte Grande Internet Shop Backend](https://github.com/Przemyslaw-Swiderski/g1-el-proyecte-grande-internet-shop-back-end-java)
+- [G1 El Proyecte Grande Internet Shop Frontend](https://github.com/Przemyslaw-Swiderski/g1_el_proyecte_grande_front_end_react)
 - [GitHub API Client App Java](https://github.com/Przemyslaw-Swiderski/github-api-client-demo-app-java)
 - [GCP API Video Inspector Transcriber App Python](https://github.com/Przemyslaw-Swiderski/gcp-api-video-inspector-transcriber-app-python)
 
